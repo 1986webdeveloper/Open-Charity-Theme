@@ -461,14 +461,21 @@ footer a:hover {
         width: 98%;
     }
 }
-
+@media (max-width:991px) { 
+    .main-banner .banner-text {
+        width: 75%
+    } 
+}
 @media (max-width: 767px) {
     .navbar-toggle {
         display: inline-block;
     } 
     .get-involved .col-4{
       margin-bottom: 40px;
-    }   
+    } 
+    .main-banner .banner-text {
+        width: 75%
+    }  
 }
 @media (max-width: 639px) {
     .logo {
@@ -499,6 +506,13 @@ footer a:hover {
     .main-banner .banner-text {
       width: 90%;
     }    
+    .upcoming-event {
+        text-align: center;
+    }
+    .upcoming-event .text-left,
+    .upcoming-event .btn {
+        float: none;
+    }
      
 }
 @media (max-width: 479px) { 

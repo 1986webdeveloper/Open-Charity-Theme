@@ -314,5 +314,9 @@
     .owl-theme .owl-nav .owl-prev {
       left:-10px;
     }
+    .owl-carousel {
+        padding: 0 20px;
+    }
     
 }
+
