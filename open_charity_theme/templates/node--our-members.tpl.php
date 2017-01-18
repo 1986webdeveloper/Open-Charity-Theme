@@ -79,7 +79,7 @@
  *
  * @ingroup themeable
  * #########################################################################
- *  By Acquaint SoftTech Pvt. Ltd.
+ *  By Mukesh
  * Customize Our members section for front page.
  */
 

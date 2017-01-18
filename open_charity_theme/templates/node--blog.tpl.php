@@ -78,7 +78,7 @@
  *
  * @ingroup themeable
  * #########################################################################
- *  By Acquaint SoftTech Pvt. Ltd.
+ *  By Mukesh
  * Customize Blog content for front page.
  */
 $blogName = $node->title; // Blog title

@@ -1,6 +1,6 @@
 <!-- Start Header 
 * #########################################################################
-* By Acquaint SoftTech Pvt. Ltd.
+* By Mukesh
 * Home/Front page temple 
 Description: This page is used to customize Home page.
 -->

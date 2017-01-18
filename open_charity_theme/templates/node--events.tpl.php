@@ -79,7 +79,7 @@
  * @ingroup themeable
  * 
  *  #########################################################################
- *  By Acquaint SoftTech Pvt. Ltd.
+ *  By Mukesh
  * Customize Events list for front page.
  */
 $eventDate = field_get_items('node', $node, 'field_event_date')[0]['value']; // Event date

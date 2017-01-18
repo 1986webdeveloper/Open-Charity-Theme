@@ -26,7 +26,7 @@
  *
  * @ingroup views_templates
  * * #########################################################################
- *  By Acquaint SoftTech Pvt. Ltd.
+ *  By Mukesh
  * Remove some extra div for customization.
  */
 ?>

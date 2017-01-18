@@ -6,7 +6,7 @@
  *
  * @ingroup views_templates
  * * #########################################################################
- *  By Acquaint SoftTech Pvt. Ltd.
+ *  By Mukesh
  * Customize unformatted list
  */
 ?>

@@ -79,7 +79,7 @@
  *
  * @ingroup themeable
  * #########################################################################
- *  By Acquaint SoftTech Pvt. Ltd.
+ *  By Mukesh
  * Customize Our mission section for front page.
  */
 $omName=$node->title; // Our mission title
